@@ -304,6 +304,11 @@ li {
   color: #fff;
 }
 
+.icons a{
+  margin-right: 1rem;
+  color: #fff;
+}
+
 .icons span:not(:last-child) {
   margin-right: 1rem;
 }
